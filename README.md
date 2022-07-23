@@ -9,10 +9,3 @@
 📌According to these data, exploratory data analysis was performed and data visualization was made according 14 scenario questions.
 
 📌This analysis is meant to be the last project of a python bootcamp that is organized by Global Ai Hub.
-
-
-##Authot
-
-@github/support
- 
-
